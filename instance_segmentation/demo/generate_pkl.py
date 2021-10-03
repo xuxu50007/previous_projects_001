@@ -1,6 +1,6 @@
 # ----------------------------------
 # Copyright (c)
-# Modified by Yan
+# Created by Yan
 # Date: 2021
 # ----------------------------------
 import numpy as np
