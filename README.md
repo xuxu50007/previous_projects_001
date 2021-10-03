@@ -13,7 +13,7 @@ In the folder "pose_estimation", you can find all the python scripts which are u
 * I coded some very useful python scripts in the "scripts" folder for inference and other tasks, these scripts are easy to use for everyone.
 
 **Fig.1 One output sample of pose estimation project**
-![](https://github.com/xuxu50007/previous_projects/blob/main/pose_estimation/scripts/output.jpg?raw=true)
+![](https://raw.githubusercontent.com/xuxu50007/previous_projects_001/main/pose_estimation/scripts/output.jpg)
 
 ## For instance segmentation
 
@@ -23,7 +23,7 @@ In the folder "instance_segmentation", all the scripts are used for instance seg
 * Some useful scripts can be found in the "demo" folder, used for inference and other tasks.
 
 **Fig.2 One output sample of instance segmentation project**
-![](https://github.com/xuxu50007/previous_projects/blob/main/instance_segmentation/demo/output.jpg?raw=true)
+![](https://raw.githubusercontent.com/xuxu50007/previous_projects_001/main/instance_segmentation/demo/output.jpg)
 
 ## For blind evaluation
 
